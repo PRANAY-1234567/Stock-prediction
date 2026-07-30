@@ -1,7 +1,4 @@
 
-
-
-
  Ensure you have the following model files in the correct location:
    - `lstmlogreg_<symbol>_classifier.pkl`
    - `scaler_<symbol>.pkl`
