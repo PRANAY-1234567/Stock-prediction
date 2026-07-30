@@ -1,4 +1,3 @@
-<img width="1918" height="937" alt="Register" src="https://github.com/user-attachments/assets/d85ed59b-89de-4234-a755-c18934576d69" />
 
 <img width="1911" height="923" alt="login" src="https://github.com/user-attachments/assets/e05d99ab-ed0a-470e-b7ec-773cb70d86b0" />
 
@@ -129,3 +128,4 @@ A Flask-based web application that provides real-time stock predictions and anal
 - pip (Python package manager)
 
 
+<img width="1918" height="937" alt="Register" src="https://github.com/user-attachments/assets/d85ed59b-89de-4234-a755-c18934576d69" />
