@@ -1,5 +1,7 @@
+## 📈 Stock Market Prediction Web Application
 
- Ensure you have the following model files in the correct location:
+A full-stack Stock Market Prediction Web Application built using Flask, Machine Learning (XGBoost), Yahoo Finance API, and SQLite. The application provides real-time stock market data, predicts Buy/Sell signals using trained machine learning models, and forecasts future stock prices through an interactive web interface.
+Ensure you have the following model files in the correct location:
    - `lstmlogreg_<symbol>_classifier.pkl`
    - `scaler_<symbol>.pkl`
    
