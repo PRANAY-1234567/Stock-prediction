@@ -22,13 +22,14 @@ Ensure you have the following model files in the correct location:
 - Stores prediction history
 - Fields: id, symbol, buy signal, future_predictions, timestamp
 
-### StockData
+## StockData
 - Caches stock data
 - Fields: id, symbol, data, timestamp
 
 ## API Endpoints
 
-### Authentication
+## Authentication
+
 - `/register` - User registration
 - `/login` - User login
 - `/logout` - User logout
@@ -49,13 +50,13 @@ Ensure you have the following model files in the correct location:
 - Fallback: yfinance library
 - Retry mechanism with exponential backoff
 
-### Prediction System
+## Prediction System
 - Uses trained machine learning models
 - Features: previous close, volume, percent change
 - Provides buy/sell signals with confidence levels
 - Generates 5-day future predictions
 
-### Error Handling
+## Error Handling
 - Comprehensive error handling for API calls
 - Fallback mechanisms for data fetching
 - Detailed logging
