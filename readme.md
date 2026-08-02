@@ -41,7 +41,7 @@ Ensure you have the following model files in the correct location:
 
 ## Features in Detail
 
-### Rate Limiting
+## Rate Limiting
 - Implements threading-based rate limiting for API calls
 - Minimum interval between requests: 1 second
 
