@@ -16,6 +16,7 @@ Ensure you have the following model files in the correct location:
 ## Database Models
 
 ### User
+
 - Stores user credentials and preferences
 - Fields: id, username, password (hashed), preferred_stocks
 
