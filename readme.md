@@ -18,7 +18,7 @@ Ensure you have the following model files in the correct location:
 - Stores user credentials and preferences
 - Fields: id, username, password (hashed), preferred_stocks
 
-### Prediction
+## Prediction
 - Stores prediction history
 - Fields: id, symbol, buy signal, future_predictions, timestamp
 
