@@ -13,8 +13,6 @@ Ensure you have the following model files in the correct location:
 2. Modify the `symbols` list to include your desired stock symbols
 3. Adjust the model file paths if necessary
 
-## Database Models
-
 ### User
 
 - Stores user credentials and preferences
