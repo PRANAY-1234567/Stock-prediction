@@ -11,6 +11,7 @@ from requests.adapters import HTTPAdapter  # For configuring HTTP requests
 from requests.packages.urllib3.util.retry import Retry  # For implementing retry logic
 import threading  
 
+
 # Create and configure Flask application
 # Create and configure Flask application
 app = Flask(__name__)        # Initialize Flask app
