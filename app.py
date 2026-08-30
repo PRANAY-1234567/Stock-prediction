@@ -1,5 +1,5 @@
 import joblib                    # For loading and saving machine learning models
-import yfinance as yf         # Yahoo Finance API wrapper for stock data
+import yfinance as yf            # Yahoo Finance API wrapper for stock data
 from flask import Flask, render_template, request, jsonify, redirect, url_for, session  # Flask web framework components
 from datetime import datetime, timedelta, timezone  # For date and time operations
 import pandas as pd           # For data manipulation and analysis
