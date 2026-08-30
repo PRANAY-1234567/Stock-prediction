@@ -128,3 +128,4 @@ A Flask-based web application that provides real-time stock predictions and anal
 
 <img width="1867" height="923" alt="Screenshot 2025-10-05 080712" src="https://github.com/user-attachments/assets/3f5d4d38-68a6-4812-851a-67977a6d3eaa" />
 
+
