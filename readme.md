@@ -119,8 +119,8 @@ A Flask-based web application that provides real-time stock predictions and anal
 - **Frontend**: HTML, JavaScript 
 
 ## Prerequisites
-
 - Python 3.7+
+
 - pip (Python package manager)
 
 <img width="1918" height="937" alt="Register" src="https://github.com/user-attachments/assets/d85ed59b-89de-4234-a755-c18934576d69" />
