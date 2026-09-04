@@ -27,8 +27,6 @@ Ensure you have the following model files in the correct location:
 - Caches stock data
 - Fields: id, symbol, data, timestamp
 
-## API Endpoints
-
 ## Authentication
 
 - `/register` - User registration
