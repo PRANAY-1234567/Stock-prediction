@@ -32,6 +32,7 @@ Ensure you have the following model files in the correct location:
 - `/login` - User login
 - `/logout` - User logout
 
+
 ### Stock Data
 - `/stock-data/<symbol>` - Get real-time stock data
 - `/predict/<symbol>` - Get prediction for specific stock
