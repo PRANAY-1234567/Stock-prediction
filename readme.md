@@ -77,6 +77,7 @@ The application will start on `http://localhost:8000`
 ## Monitoring
 
 The application includes print statements for monitoring:
+
 - User actions (login, logout, registration)
 - API calls
 - Data fetching status
